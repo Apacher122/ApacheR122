@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Veteran, Student, Tech Nerd
 Served 6 years in the military and deployed in support of OEF-HOA from 2018-2019.  
 Current Columbia University CS student, Software Systems track.  
-Will most likely create an entire web-app in a caffeine fueled spur of inspiration.
+Guilty of caffeine-fueled spurs of inspiration.  
 
 ## Technical skills
 ### Programming Languages
