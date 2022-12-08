@@ -31,7 +31,7 @@ Guilty of caffeine-fueled spurs of inspiration.
 &emsp;PostgreSQL, MySQL, MS SQL
 
 ### Web Frameworks
-&emsp;Django, Flask, Expres
+&emsp;Django, Flask, Express
 
 ### Cloud Technologies
 &emsp;AWS, GCP
