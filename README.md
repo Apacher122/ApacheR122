@@ -16,22 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...### Veteran, Student, Tech Nerd
 
 -->
-## Veteran, Student, Tech Nerd
-Served 6 years in the military and deployed in support of OEF-HOA from 2018-2019.  
-Current Columbia University CS student, Software Systems track.  
-Guilty of caffeine-fueled spurs of inspiration.  
-
-## Technical skills
-### Programming Languages
-&emsp;**Expert:**&emsp;&emsp;&ensp;&ensp;Python, JavaScript, C#    
-&emsp;**Proficient:**&emsp;&ensp;C, GoLang, Java, C++  
-&emsp;**Competent:** &ensp;Kotlin, Swift, PHP
-
-### Databases
-&emsp;PostgreSQL, MySQL, MS SQL
-
-### Web Frameworks
-&emsp;Django, Flask, Express
-
-### Cloud Technologies
-&emsp;AWS, GCP
+## Veteran, SWE, Tech Nerd
+Served for 6 years as a knuckle-dragging infantryman and deployed from 2018-2019.  
+Ended up going to Columbia University to get my CS degree. Now I'm a software engineer.
+I basically speedran human evolution from the Paleolithic period to modern times.
