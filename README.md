@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 ## Veteran, SWE, Tech Nerd
 Served for 6 years as a knuckle-dragging infantryman and deployed from 2018-2019.  
 Ended up going to Columbia University to get my CS degree. Now I'm a software engineer.  
-I basically speedran human evolution from the Paleolithic period to modern times.
+I basically speedran human evolution from the Paleolithic period to modern times.  
+  
+I mainly use github to help me work on my personal tools/projects that I use for my day-to-day life. If you're curious, feel free to browse my repos.  
+
